@@ -19,5 +19,5 @@ while True:
         max_tokens=150,
     )
 
-    response_message = response["choices"][1]["message"]
+    response_message = response["choices"][0]["message"]
     print(response_message)
