@@ -13,7 +13,7 @@ Python
 2. cd to src folder.
 3. All required dependencies are listed in requirements.txt
 4. Now run $ pip install -r requirements.txt
-5. Now in .env file add your open I API key (Refer online how to create your own open AI api key)
+5. Now in src folder create .env file and add your open AI API key like this " OPENAI_API_KEY = _Your open api key_ " (Refer online how to create your own open AI api key)
 6. Now just run the code either using python main.py or just use run button on VS code.
 
 
